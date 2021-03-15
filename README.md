@@ -35,7 +35,7 @@ logstash -f tops_sample.conf
 
 ## Docker
 
-Still not available to public.
+Now able to run the project on Docker. For more deatail, please take a look at `docker-compose.yml`
 
 ```
 docker-compose up -d
